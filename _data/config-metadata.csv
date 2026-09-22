@@ -1,15 +1,27 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
+title,Closure Product/Patent Name,,,DCTERMS.title,headline
+garment_product_name,Garment Product Name,,,
+brand_company,Brand/Company,,,
+garment_type,Garment Type,,,
+garment_product_description,Garment Product Description,,,
+manufacturer_stated_claim,Manufacturer Stated Claim,,,
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
+description,Closure Materials,,,DCTERMS.description,description
+subject,Closure Type,true,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
+method_operation,Method of Operation,true,
+closure_purpose,Closure Purpose,true,
+apparel_category,Apparel Category,true,
+secondary_apparel_category,Secondary Apparel Category,true,
+wearable_product_form,Wearable Product Form,true,
+intended_user_group,Intended User Group,true,
+user_access_need,User Access Need,true,
+record_type,Record Type,true,
 source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
+

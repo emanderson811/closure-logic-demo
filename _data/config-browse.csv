@@ -2,6 +2,14 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
 description,,,true,
 creator,Creator,,,
-subject,,true
-location,,true,,,Location Depicted
+subject,Closure Type,true
+location,Closure Location,,true,,Location Depicted
 identifier,,,true,Identifier
+method_operation,Method of Operation,,true
+closure_purpose,Closure Purpose,,true
+apparel_category,Apparel Category,true,
+secondary_apparel_category,Secondary Apparel Category,,true
+wearable_product_form,Wearable Product Form,,true
+intended_user_group,Intended User Group,,true
+user_access_need,User Access Need,,true
+record_type,Record Type,,true
